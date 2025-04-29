@@ -1,0 +1,7 @@
+Flask==3.1.0
+Flask-SQLAlchemy==3.1.1
+flask-restful
+Flask-Migrate
+flask-cors
+Flask-JWT-Extended
+psycopg2

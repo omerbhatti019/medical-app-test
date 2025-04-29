@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# medical-app-test
-Demo POC app using flask and react 
-=======
-# medical_billing_demo_flask
- 
->>>>>>> 43b22306 (initial commit)
+this is a small demo app to manage patient details
+
+For front end we use react and bootstrap and for back-end we use flask and python with postgres
